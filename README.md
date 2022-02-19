@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GArecoT
+- 👀 I’m a Brazillian Computer Engineering student.
+- 🌱 I just want to post my sloppy code somewhere.
